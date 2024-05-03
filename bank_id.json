@@ -1,0 +1,926 @@
+[
+    {
+        "id": 1,
+        "name": "Bank Central Asia",
+        "alias": "bca",
+        "code": "014"
+    },
+    {
+        "id": 2,
+        "name": "Bank Mandiri",
+        "alias": "mandiri",
+        "code": "008"
+    },
+    {
+        "id": 3,
+        "name": "Bank Negara Indonesia",
+        "alias": "bni",
+        "code": "009"
+    },
+    {
+        "id": 4,
+        "name": "Bank Syariah Indonesia (Eks BNI Syariah)",
+        "alias": "bsi-bnis",
+        "code": "427"
+    },
+    {
+        "id": 5,
+        "name": "Bank Rakyat Indonesia",
+        "alias": "bri",
+        "code": "002"
+    },
+    {
+        "id": 6,
+        "name": "Bank Syariah Indonesia (Eks Mandiri Syariah)",
+        "alias": "bsi-bsm",
+        "code": "451"
+    },
+    {
+        "id": 7,
+        "name": "Bank CIMB Niaga",
+        "alias": "cimb",
+        "code": "022"
+    },
+    {
+        "id": 8,
+        "name": "Bank CIMB Niaga Syariah",
+        "alias": "cimbs",
+        "code": "022"
+    },
+    {
+        "id": 9,
+        "name": "Bank Muamalat",
+        "alias": "muamalat",
+        "code": "147"
+    },
+    {
+        "id": 10,
+        "name": "Bank Tabungan Pensiunan Nasional",
+        "alias": "btpn",
+        "code": "213"
+    },
+    {
+        "id": 11,
+        "name": "Bank Tabungan Pensiunan Nasional Syariah",
+        "alias": "btpns",
+        "code": "547"
+    },
+    {
+        "id": 12,
+        "name": "Jenius",
+        "alias": "jenius",
+        "code": "213"
+    },
+    {
+        "id": 13,
+        "name": "Bank Syariah Indonesia (Eks BRI Syariah)",
+        "alias": "bsi-bris",
+        "code": "422"
+    },
+    {
+        "id": 14,
+        "name": "Bank Tabungan Negara",
+        "alias": "btn",
+        "code": "200"
+    },
+    {
+        "id": 15,
+        "name": "Permata Bank",
+        "alias": "permata",
+        "code": "013"
+    },
+    {
+        "id": 16,
+        "name": "Bank Danamon",
+        "alias": "danamon",
+        "code": "011"
+    },
+    {
+        "id": 17,
+        "name": "Bank BII Maybank",
+        "alias": "bii-maybank",
+        "code": "016"
+    },
+    {
+        "id": 18,
+        "name": "Bank Mega",
+        "alias": "mega",
+        "code": "426"
+    },
+    {
+        "id": 19,
+        "name": "Bank Sinarmas",
+        "alias": "sinarmas",
+        "code": "153"
+    },
+    {
+        "id": 20,
+        "name": "Bank Commonwealth",
+        "alias": "commonwealth",
+        "code": "950"
+    },
+    {
+        "id": 21,
+        "name": "Bank OCBC NISP",
+        "alias": "ocbc",
+        "code": "028"
+    },
+    {
+        "id": 22,
+        "name": "Bank KB Bukopin",
+        "alias": "bukopin",
+        "code": "441"
+    },
+    {
+        "id": 23,
+        "name": "Bank KB Bukopin Syariah",
+        "alias": "bukopins",
+        "code": "521"
+    },
+    {
+        "id": 24,
+        "name": "Bank BCA Syariah",
+        "alias": "bcas",
+        "code": "521"
+    },
+    {
+        "id": 25,
+        "name": "Bank Lippo",
+        "alias": "lippo",
+        "code": "026"
+    },
+    {
+        "id": 26,
+        "name": "Citibank",
+        "alias": "citibank",
+        "code": "031"
+    },
+    {
+        "id": 27,
+        "name": "Indosat Dompetku",
+        "alias": "indosat",
+        "code": "789"
+    },
+    {
+        "id": 28,
+        "name": "Telkomsel Tcash",
+        "alias": "telkomsel",
+        "code": "911"
+    },
+    {
+        "id": 29,
+        "name": "LinkAja",
+        "alias": "linkaja",
+        "code": "911"
+    },
+    {
+        "id": 30,
+        "name": "Bank DBS Indonesia",
+        "alias": "dbs",
+        "code": "046"
+    },
+    {
+        "id": 31,
+        "name": "Digibank",
+        "alias": "digibank",
+        "code": "046"
+    },
+    {
+        "id": 32,
+        "name": "SeaBank (Eks. Bank Kesejahteraan Ekonomi)",
+        "alias": "seabank",
+        "code": "535"
+    },
+    {
+        "id": 33,
+        "name": "Bank Jago (Eks. Bank Artos Indonesia)",
+        "alias": "jago",
+        "code": "542"
+    },
+    {
+        "id": 34,
+        "name": "Bank UOB Indonesia",
+        "alias": "uob",
+        "code": "023"
+    },
+    {
+        "id": 35,
+        "name": "TMRW by UOB Indonesia",
+        "alias": "tmrw",
+        "code": "023"
+    },
+    {
+        "id": 36,
+        "name": "Bank Neo Commerce (Akulaku)",
+        "alias": "neo",
+        "code": "490"
+    },
+    {
+        "id": 37,
+        "name": "Allo Bank (Eks. Bank Harda)",
+        "alias": "allobank",
+        "code": "567"
+    },
+    {
+        "id": 38,
+        "name": "Bank Aladin Syariah (Eks. Bank Maybank Indocorp)",
+        "alias": "aladin",
+        "code": "947"
+    },
+    {
+        "id": 39,
+        "name": "Bank Jabar dan Banten (Bank BJB)",
+        "alias": "bjb",
+        "code": "110"
+    },
+    {
+        "id": 40,
+        "name": "Bank DKI Jakarta",
+        "alias": "dki",
+        "code": "111"
+    },
+    {
+        "id": 41,
+        "name": "BPD DIY (Yogyakarta)",
+        "alias": "diy",
+        "code": "112"
+    },
+    {
+        "id": 42,
+        "name": "Bank JATENG (Jawa Tengah)",
+        "alias": "jateng",
+        "code": "113"
+    },
+    {
+        "id": 43,
+        "name": "Bank JATIM (Jawa Timur)",
+        "alias": "jatim",
+        "code": "114"
+    },
+    {
+        "id": 44,
+        "name": "Bank Jambi",
+        "alias": "jambi",
+        "code": "115"
+    },
+    {
+        "id": 45,
+        "name": "BPD Aceh",
+        "alias": "aceh",
+        "code": "116"
+    },
+    {
+        "id": 46,
+        "name": "BPD Aceh Syariah",
+        "alias": "acehs",
+        "code": "116"
+    },
+    {
+        "id": 47,
+        "name": "Bank SUMUT (Sumatera Utara)",
+        "alias": "sumut",
+        "code": "117"
+    },
+    {
+        "id": 48,
+        "name": "Bank NAGARI (Bank SUMBAR)",
+        "alias": "sumbar",
+        "code": "118"
+    },
+    {
+        "id": 49,
+        "name": "Bank Riau Kepri",
+        "alias": "riau-kepri",
+        "code": "119"
+    },
+    {
+        "id": 50,
+        "name": "Bank SUMSEL BABEL",
+        "alias": "sumsel-babel",
+        "code": "120"
+    },
+    {
+        "id": 51,
+        "name": "Bank Lampung",
+        "alias": "lampung",
+        "code": "121"
+    },
+    {
+        "id": 52,
+        "name": "Bank KALSEL (Bank Kalimantan Selatan)",
+        "alias": "kalsel",
+        "code": "122"
+    },
+    {
+        "id": 53,
+        "name": "Bank KALBAR (Bank Kalimantan Barat)",
+        "alias": "kalsel",
+        "code": "123"
+    },
+    {
+        "id": 54,
+        "name": "Bank KALTIMTARA (Bank Kalimantan Timur dan Utara)",
+        "alias": "kaltimtara",
+        "code": "124"
+    },
+    {
+        "id": 55,
+        "name": "Bank KALTENG (Bank Kalimantan Tengah)",
+        "alias": "kalteng",
+        "code": "125"
+    },
+    {
+        "id": 56,
+        "name": "Bank SULSELBAR (Bank Sulawesi Selatan dan Barat)",
+        "alias": "sulselbar",
+        "code": "126"
+    },
+    {
+        "id": 57,
+        "name": "Bank SULUTGO (Bank Sulawesi Utara dan Gorontalo)",
+        "alias": "sulutgo",
+        "code": "127"
+    },
+    {
+        "id": 58,
+        "name": "Bank NTB",
+        "alias": "ntb",
+        "code": "128"
+    },
+    {
+        "id": 59,
+        "name": "Bank NTB Syariah",
+        "alias": "ntbs",
+        "code": "128"
+    },
+    {
+        "id": 60,
+        "name": "Bank BPD Bali",
+        "alias": "bali",
+        "code": "129"
+    },
+    {
+        "id": 61,
+        "name": "Bank NTT",
+        "alias": "ntt",
+        "code": "130"
+    },
+    {
+        "id": 62,
+        "name": "Bank Maluku MALUT",
+        "alias": "maluku-malut",
+        "code": "131"
+    },
+    {
+        "id": 63,
+        "name": "Bank PAPUA",
+        "alias": "papua",
+        "code": "132"
+    },
+    {
+        "id": 64,
+        "name": "Bank Bengkulu",
+        "alias": "bengkulu",
+        "code": "133"
+    },
+    {
+        "id": 65,
+        "name": "Bank SULTENG (Sulawesi Tengah)",
+        "alias": "sulteng",
+        "code": "134"
+    },
+    {
+        "id": 66,
+        "name": "Bank SULTRA",
+        "alias": "sultra",
+        "code": "135"
+    },
+    {
+        "id": 67,
+        "name": "Bank BPD Banten",
+        "alias": "banten",
+        "code": "137"
+    },
+    {
+        "id": 68,
+        "name": "Bank Ekspor Indonesia",
+        "alias": "ekspor",
+        "code": "003"
+    },
+    {
+        "id": 69,
+        "name": "Bank Panin",
+        "alias": "panin",
+        "code": "019"
+    },
+    {
+        "id": 70,
+        "name": "Bank Panin Dubai Syariah",
+        "alias": "panin-dubai",
+        "code": "517"
+    },
+    {
+        "id": 71,
+        "name": "Bank Arta Niaga Kencana",
+        "alias": "arta-niaga",
+        "code": "020"
+    },
+    {
+        "id": 72,
+        "name": "American Express Bank LTD",
+        "alias": "american-express",
+        "code": "030"
+    },
+    {
+        "id": 73,
+        "name": "Citibank N.A.",
+        "alias": "citibank-na",
+        "code": "031"
+    },
+    {
+        "id": 74,
+        "name": "JP. Morgan Chase Bank LTD",
+        "alias": "jp-morgan",
+        "code": "032"
+    },
+    {
+        "id": 75,
+        "name": "Bank of America, N.A.",
+        "alias": "boa",
+        "code": "033"
+    },
+    {
+        "id": 76,
+        "name": "Ing Indonesia Bank",
+        "alias": "ing-indonesia",
+        "code": "034"
+    },
+    {
+        "id": 77,
+        "name": "Bank Multicor",
+        "alias": "multicor",
+        "code": "036"
+    },
+    {
+        "id": 78,
+        "name": "Bank Artha Graha Internasional",
+        "alias": "artha-graha",
+        "code": "037"
+    },
+    {
+        "id": 79,
+        "name": "Bank Credit Agricole Indosuez",
+        "alias": "credit-agricole",
+        "code": "039"
+    },
+    {
+        "id": 80,
+        "name": "The Bangkok Bank Comp. LTD",
+        "alias": "bangkok",
+        "code": "040"
+    },
+    {
+        "id": 81,
+        "name": "Bank HSBC Indonesia",
+        "alias": "hsbc-indonesia",
+        "code": "087"
+    },
+    {
+        "id": 82,
+        "name": "The Bank of Tokyo Mitsubishi UFJ LTD",
+        "alias": "tokyo-mitsubishi",
+        "code": "042"
+    },
+    {
+        "id": 83,
+        "name": "Bank Sumitomo Mitsui Indonesia",
+        "alias": "sumitomo",
+        "code": "045"
+    },
+    {
+        "id": 84,
+        "name": "Bank Resona Perdania",
+        "alias": "resona-perdania",
+        "code": "047"
+    },
+    {
+        "id": 85,
+        "name": "Bank Mizuho Indonesia",
+        "alias": "mizuho",
+        "code": "048"
+    },
+    {
+        "id": 86,
+        "name": "Standard Chartered bank",
+        "alias": "standard-chartered",
+        "code": "050"
+    },
+    {
+        "id": 87,
+        "name": "Bank ABN Amro",
+        "alias": "abn-amro",
+        "code": "052"
+    },
+    {
+        "id": 88,
+        "name": "Bank Keppel Tatlee Buana",
+        "alias": "keppel",
+        "code": "053"
+    },
+    {
+        "id": 89,
+        "name": "Bank Capital Indonesia",
+        "alias": "capital",
+        "code": "054"
+    },
+    {
+        "id": 90,
+        "name": "Bank BNP Paribas Indonesia",
+        "alias": "bnp-paribas",
+        "code": "057"
+    },
+    {
+        "id": 91,
+        "name": "Korea Exchange Bank Danamon",
+        "alias": "korea-exchange",
+        "code": "059"
+    },
+    {
+        "id": 92,
+        "name": "RABOBANK Internasional Indonesia",
+        "alias": "rabobank",
+        "code": "060"
+    },
+    {
+        "id": 93,
+        "name": "Bank ANZ Indonesia",
+        "alias": "anz",
+        "code": "061"
+    },
+    {
+        "id": 94,
+        "name": "Bank Woori Saudara",
+        "alias": "woori-saudara",
+        "code": "212"
+    },
+    {
+        "id": 95,
+        "name": "Bank of China",
+        "alias": "china",
+        "code": "069"
+    },
+    {
+        "id": 96,
+        "name": "Bank Bumi Arta",
+        "alias": "bumi-arta",
+        "code": "076"
+    },
+    {
+        "id": 97,
+        "name": "Bank HSBC Indonesia (Eks. Bank Ekonomi)",
+        "alias": "hsbc",
+        "code": "087"
+    },
+    {
+        "id": 98,
+        "name": "Bank AntarDaerah",
+        "alias": "antar-daerah",
+        "code": "088"
+    },
+    {
+        "id": 99,
+        "name": "Bank Haga",
+        "alias": "haga",
+        "code": "089"
+    },
+    {
+        "id": 100,
+        "name": "Bank IFI",
+        "alias": "ifi",
+        "code": "093"
+    },
+    {
+        "id": 101,
+        "name": "Bank J Trust Indonesia",
+        "alias": "j-trust",
+        "code": "095"
+    },
+    {
+        "id": 102,
+        "name": "Bank Mayapada",
+        "alias": "mayapada",
+        "code": "097"
+    },
+    {
+        "id": 103,
+        "name": "Bank Nusantara Parahyangan",
+        "alias": "nusantara-parahyangan",
+        "code": "145"
+    },
+    {
+        "id": 104,
+        "name": "Bank Swadesi (Bank of India Indonesia)",
+        "alias": "swadesi",
+        "code": "146"
+    },
+    {
+        "id": 105,
+        "name": "Bank Mestika Dharma",
+        "alias": "mestika-dharma",
+        "code": "151"
+    },
+    {
+        "id": 106,
+        "name": "Bank SHINHAN Indonesia (Bank Metro Express)",
+        "alias": "shinhan-indonesia",
+        "code": "152"
+    },
+    {
+        "id": 107,
+        "name": "Bank Maspion Indonesia",
+        "alias": "maspion-indonesia",
+        "code": "157"
+    },
+    {
+        "id": 108,
+        "name": "Bank Hagakita",
+        "alias": "hagakita",
+        "code": "159"
+    },
+    {
+        "id": 109,
+        "name": "Bank Ganesha",
+        "alias": "ganesha",
+        "code": "161"
+    },
+    {
+        "id": 110,
+        "name": "Bank Windu Kentjana",
+        "alias": "windu-kentjana",
+        "code": "162"
+    },
+    {
+        "id": 111,
+        "name": "Bank ICBC Indonesia (Halim Indonesia Bank)",
+        "alias": "icbc-indonesia",
+        "code": "164"
+    },
+    {
+        "id": 112,
+        "name": "Bank Harmoni International",
+        "alias": "harmoni-international",
+        "code": "166"
+    },
+    {
+        "id": 113,
+        "name": "Bank QNB Kesawan (Bank QNB Indonesia)",
+        "alias": "qnb-kesawan",
+        "code": "167"
+    },
+    {
+        "id": 114,
+        "name": "Bank Himpunan Saudara 1906",
+        "alias": "himpunan-saudara-1906",
+        "code": "212"
+    },
+    {
+        "id": 115,
+        "name": "Bank Swaguna",
+        "alias": "swaguna",
+        "code": "405"
+    },
+    {
+        "id": 116,
+        "name": "Bank Bisnis Internasional",
+        "alias": "bisnis-internasional",
+        "code": "459"
+    },
+    {
+        "id": 117,
+        "name": "Bank Sri Partha",
+        "alias": "sri-partha",
+        "code": "466"
+    },
+    {
+        "id": 118,
+        "name": "Bank Jasa Jakarta",
+        "alias": "jasa-jakarta",
+        "code": "472"
+    },
+    {
+        "id": 119,
+        "name": "Bank Hana (Eks. Bank Bintang Manunggal)",
+        "alias": "hana",
+        "code": "484"
+    },
+    {
+        "id": 120,
+        "name": "Bank MNC Internasional (Bank Bumiputera)",
+        "alias": "mnc-internasional",
+        "code": "485"
+    },
+    {
+        "id": 121,
+        "name": "Bank Yudha Bhakti",
+        "alias": "yudha-bhakti",
+        "code": "490"
+    },
+    {
+        "id": 122,
+        "name": "Bank Mitraniaga",
+        "alias": "mitraniaga",
+        "code": "491"
+    },
+    {
+        "id": 123,
+        "name": "Bank Raya (BRI Agro Niaga)",
+        "alias": "raya",
+        "code": "494"
+    },
+    {
+        "id": 124,
+        "name": "Bank SBI Indonesia (Bank Indomonex)",
+        "alias": "sbi-indonesia",
+        "code": "498"
+    },
+    {
+        "id": 125,
+        "name": "Bank Royal Indonesia",
+        "alias": "royal-indonesia",
+        "code": "501"
+    },
+    {
+        "id": 126,
+        "name": "Bank National Nobu (Bank Alfindo)",
+        "alias": "national-nobu",
+        "code": "503"
+    },
+    {
+        "id": 127,
+        "name": "Bank Mega Syariah",
+        "alias": "mega-syariah",
+        "code": "506"
+    },
+    {
+        "id": 128,
+        "name": "Bank Ina Perdana",
+        "alias": "ina-perdana",
+        "code": "513"
+    },
+    {
+        "id": 129,
+        "name": "Bank Harfa",
+        "alias": "harfa",
+        "code": "517"
+    },
+    {
+        "id": 130,
+        "name": "Prima Master Bank",
+        "alias": "prima-master",
+        "code": "520"
+    },
+    {
+        "id": 131,
+        "name": "Bank Persyarikatan Indonesia",
+        "alias": "persyarikatan",
+        "code": "521"
+    },
+    {
+        "id": 132,
+        "name": "Bank Akita",
+        "alias": "akita",
+        "code": "525"
+    },
+    {
+        "id": 133,
+        "name": "Bank Oke Indonesia (Liman International Bank)",
+        "alias": "oke",
+        "code": "526"
+    },
+    {
+        "id": 134,
+        "name": "Anglomas Internasional Bank",
+        "alias": "anglomas",
+        "code": "531"
+    },
+    {
+        "id": 135,
+        "name": "Bank Sahabat SAmpoerna (Bank Dipo International)",
+        "alias": "sahabat-sampoerna",
+        "code": "523"
+    },
+    {
+        "id": 136,
+        "name": "Bank Purba Danarta",
+        "alias": "purba-danarta",
+        "code": "547"
+    },
+    {
+        "id": 137,
+        "name": "Bank Multi Arta Sentosa",
+        "alias": "multi-arta-sentosa",
+        "code": "548"
+    },
+    {
+        "id": 138,
+        "name": "Bank Mayora Indonesia",
+        "alias": "mayora",
+        "code": "553"
+    },
+    {
+        "id": 139,
+        "name": "Bank Index Selindo",
+        "alias": "index-selindo",
+        "code": "555"
+    },
+    {
+        "id": 140,
+        "name": "Bank Victoria International",
+        "alias": "victoria",
+        "code": "566"
+    },
+    {
+        "id": 141,
+        "name": "Bank Eksekutif",
+        "alias": "eksekutif",
+        "code": "558"
+    },
+    {
+        "id": 142,
+        "name": "Centratama Nasional Bank",
+        "alias": "centratama",
+        "code": "559"
+    },
+    {
+        "id": 143,
+        "name": "Bank Fama Internasional",
+        "alias": "fama",
+        "code": "562"
+    },
+    {
+        "id": 144,
+        "name": "Bank Mandiri Taspen Pos (Bank Sinar Harapan Bali)",
+        "alias": "mandiri-taspen-pos",
+        "code": "564"
+    },
+    {
+        "id": 145,
+        "name": "Bank Agris (Bank Finconesia)",
+        "alias": "agris",
+        "code": "945"
+    },
+    {
+        "id": 146,
+        "name": "Bank Merincorp",
+        "alias": "merincorp",
+        "code": "946"
+    },
+    {
+        "id": 147,
+        "name": "Bank CTBC (China Trust) Indonesia",
+        "alias": "ctbc",
+        "code": "949"
+    },
+    {
+        "id": 148,
+        "name": "Bank BJB Syariah",
+        "alias": "bjb-syariah",
+        "code": "425"
+    },
+    {
+        "id": 149,
+        "name": "BPR KS (Karyajatnika Sedaya)",
+        "alias": "bpr-ks",
+        "code": "688"
+    },
+    {
+        "id": 150,
+        "name": "BPR Supra Artapersada",
+        "alias": "bpr-supra",
+        "code": "600"
+    },
+    {
+        "id": 151,
+        "name": "BPR Danagung Abadi",
+        "alias": "bpr-danagung-abadi",
+        "code": "028"
+    },
+    {
+        "id": 152,
+        "name": "BPR Danagung Bakti",
+        "alias": "bpr-danagung-bakti",
+        "code": "028"
+    },
+    {
+        "id": 153,
+        "name": "BPR Danagung Ramulti",
+        "alias": "bpr-danagung-ramulti",
+        "code": "028"
+    },
+    {
+        "id": 154,
+        "name": "Bank IBK Indonesia",
+        "alias": "ibk",
+        "code": "945"
+    }
+]
